@@ -1,0 +1,7 @@
+S.sclerotiorum_Chr11	1248186	238
+S.sclerotiorum_Chr04	336511	667
+S.sclerotiorum_Chr09	251299	1374
+S.sclerotiorum_chr10	1610177	129
+S.sclerotiorum_Chr07	1048432	704
+S.sclerotiorum_Chr01	1825809	744
+
